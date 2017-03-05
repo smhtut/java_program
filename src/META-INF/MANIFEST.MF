@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Created-By: 1.7.0_67-b01 (Oracle Corporation)
+Class-Path: lib/bcel.jar lib/commons-bcel-6.0.jar lib/commons-lang3-3.
+ 5-javadoc.jar lib/commons-lang3-3.5.jar lib/guava-18.0.jar lib/guava-
+ 19.0.jar lib/guava-gwt-18.0.jar lib/java-getopt-1.0.14.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: ui.MainUI
+
